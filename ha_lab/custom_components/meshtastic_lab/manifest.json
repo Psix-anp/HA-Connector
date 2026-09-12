@@ -1,0 +1,7 @@
+{
+  "domain": "meshtastic_lab",
+  "name": "Meshtastic HA Lab Driver",
+  "version": "0.1.0",
+  "dependencies": ["meshtastic", "logbook", "recorder"],
+  "iot_class": "local_push"
+}
