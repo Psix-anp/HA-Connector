@@ -1,0 +1,7 @@
+default_config:
+
+recorder:
+  commit_interval: 1
+
+meshtastic:
+meshtastic_lab:
